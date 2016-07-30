@@ -1,0 +1,11 @@
+react:
+  version: VERSION
+  js:
+    //cdnjs.cloudflare.com/ajax/libs/react/15.0.1/react.min.js: {type: external, minified: true}
+    //cdnjs.cloudflare.com/ajax/libs/react/15.0.1/react-dom.min.js: {type: external, minified: true}
+    //cdnjs.cloudflare.com/ajax/libs/babel-core/5.8.23/browser.min.js: {type: external, minified: true}
+    //cdnjs.cloudflare.com/ajax/libs/jquery/2.2.0/jquery.min.js: {type: external, minified: true}
+    //cdnjs.cloudflare.com/ajax/libs/remarkable/1.6.2/remarkable.min.js: {type: external, minified: true}
+  dependencies:
+    - core/drupal
+    - core/drupalSettings

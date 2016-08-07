@@ -9,3 +9,4 @@ react:
   dependencies:
     - core/drupal
     - core/drupalSettings
+    - core/jquery
